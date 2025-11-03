@@ -37,7 +37,13 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code || echo "changed=true" >> $GITHUB_OUTPUT
+          if git diff --quiet wandering-inn-chapters.json wandering-inn-wordcount.json; then
+            echo "No changes detected in data files"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in data files"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
       
       - name: Commit and push changes
         if: steps.git-check.outputs.changed == 'true'
