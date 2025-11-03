@@ -1,0 +1,50 @@
+name: Update Data
+
+on:
+  schedule:
+    # Run every hour at :48 past the hour
+    # Using :48 instead of :00 to avoid GitHub Actions congestion
+    # (many workflows run on the hour, which can cause delays or dropped runs)
+    - cron: '48 * * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run update script
+        run: node update-data.js
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add wandering-inn-chapters.json wandering-inn-wordcount.json
+          git commit -m "Update data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
