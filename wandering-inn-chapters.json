@@ -25,9 +25,9 @@
     "Book 11 -The Titan of Baleros",
     "Book 12 -The Witch of Webs",
     "Book 13 -The Empress of Beasts",
-    "Book 14 -Hell’s Wardens",
+    "Book 14 -Hells Wardens",
     "Book 15 -Garden of Sanctuary",
-    "Book 16 -The King of Duels",
+    "Book 16 -King of Duels",
     "Book 17",
     "Book 18",
     "Book 19",
@@ -2774,149 +2774,79 @@
     {
       "v": 6,
       "b": 14,
-      "ws": "7.01",
-      "ab": "Chapter 3",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "7.02",
-      "ab": "Chapter 4",
+      "ab": "Chapter 3",
       "eb": "7.02"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.02",
-      "ab": "Chapter 5",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "7.03",
-      "ab": "Chapter 6",
+      "ab": "Chapter 4",
       "eb": "7.03"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.03",
-      "ab": "Chapter 7",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "Mini Stories – Crabs and Drinks",
-      "ab": "Mini Stories",
+      "ab": "Chapter 5",
       "eb": "Mini Stories – Crabs and Drinks"
     },
     {
       "v": 6,
       "b": 14,
       "ws": "7.04",
-      "ab": "Chapter 8",
+      "ab": "Chapter 6",
       "eb": "7.04"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.04",
-      "ab": "Chapter 9",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "Interlude – Queens and Dragons",
-      "ab": "Interlude",
+      "ab": "Interlude: Queens and Dragons",
       "eb": "Interlude – Queens and Dragons"
     },
     {
       "v": 6,
       "b": 14,
       "ws": "7.05 P",
-      "ab": "Chapter 10a",
+      "ab": "Chapter 7: P",
       "eb": "7.05 P"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.05 P",
-      "ab": "Chapter 10b",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
-      "ws": "7.05 P",
-      "ab": "Chapter 11",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "7.06",
-      "ab": "Chapter 12",
+      "ab": "Chapter 8",
       "eb": "7.06"
     },
     {
       "v": 6,
       "b": 14,
       "ws": "7.07",
-      "ab": "Chapter 13",
+      "ab": "Chapter 9",
       "eb": "7.07"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.07",
-      "ab": "Chapter 14",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "7.08 K",
-      "ab": "Chapter 15",
+      "ab": "Chapter 10: K",
       "eb": "7.08 K"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.08 K",
-      "ab": "Chapter 16",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "7.09 K",
-      "ab": "Chapter 17",
+      "ab": "Chapter 11: K",
       "eb": "7.09 K"
     },
     {
       "v": 6,
       "b": 14,
-      "ws": "7.09 K",
-      "ab": "Chapter 18",
-      "eb": null
-    },
-    {
-      "v": 6,
-      "b": 14,
       "ws": "7.10 K",
-      "ab": "Chapter 19",
+      "ab": "Chapter 12: K",
       "eb": "7.10 K"
-    },
-    {
-      "v": 6,
-      "b": 14,
-      "ws": "7.10 K",
-      "ab": "Chapter 20",
-      "eb": null
     },
     {
       "v": 6,
@@ -2929,105 +2859,105 @@
       "v": 6,
       "b": 15,
       "ws": "Interlude – Dancing and Brawling",
-      "ab": "Interlude - Dancing and Brawling",
+      "ab": "Interlude: Dancing and Brawling",
       "eb": "Interlude – Dancing and Brawling"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Interlude – Chocolate Gold",
-      "ab": "Interlude - Chocolate Gold",
+      "ab": "Interlude: Chocolate Gold",
       "eb": "Interlude – Chocolate Gold"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Interlude – Chess and Ships",
-      "ab": "Interlude - Chess and Ships",
+      "ab": "Interlude: Chess and Ships",
       "eb": "Interlude – Chess and Ships"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Interlude – Chocolate Alchemy",
-      "ab": "Interlude - Chocolate Alchemy",
+      "ab": "Interlude: Chocolate Alchemy",
       "eb": "Interlude – Chocolate Alchemy"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Interlude – Lifting Ants",
-      "ab": "Interlude - Lifting Ants",
+      "ab": "Interlude: Lifting Ants",
       "eb": "Interlude – Lifting Ants"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Interlude – Burning Alcohol",
-      "ab": "Interlude - Burning Alcohol",
+      "ab": "Interlude: Burning Alcohol",
       "eb": "Interlude – Burning Alcohol"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Interlude – The Hangover After",
-      "ab": "Interlude - The Hangover After",
+      "ab": "Interlude: The Hangover After",
       "eb": "Interlude – The Hangover After"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.12 G",
-      "ab": "Chapter 2: Goblins",
+      "ab": "Chapter 2: G",
       "eb": "7.12 G"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.13 K",
-      "ab": "Chapter 3: King",
+      "ab": "Chapter 3: K",
       "eb": "7.13 K"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "Mating Rituals Pt.2",
-      "ab": "Chapter 4: Mating Rituals, Part 2",
+      "ab": "Chapter 4",
       "eb": "Mating Rituals Pt.2"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.14 T",
-      "ab": "Chapter 5: Toren",
+      "ab": "Chapter 5: T",
       "eb": "7.14 T"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.15 R",
-      "ab": "Chapter 6: Griffon Hunt",
+      "ab": "Chapter 6: R",
       "eb": "7.15 R"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.16 L",
-      "ab": "Chapter 7: Liscor/Lyonette",
+      "ab": "Chapter 7: L",
       "eb": "7.16 L"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.17 S",
-      "ab": "Chapter 8: Saliss",
+      "ab": "Chapter 8: S",
       "eb": "7.17 S"
     },
     {
       "v": 6,
       "b": 15,
       "ws": "7.18 M",
-      "ab": "Chapter 9: Maviola",
+      "ab": "Chapter 9: M",
       "eb": "7.18 M"
     },
     {
