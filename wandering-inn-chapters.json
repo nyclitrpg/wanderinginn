@@ -12,8 +12,10 @@
     "Volume 10"
   ],
   "books": [
-    "Book 1 -The Wandering Inn",
-    "Book 2 -Fae and Fare",
+    "Book 1 -The Wandering Inn: Book One, Part One",
+    "Book 1 -No Killing Goblins: Book One, Part Two",
+    "Book 2 -Fae and Fare: Book Two, Part One",
+    "Book 2 -Immortal Games: Book Two, Part Two",
     "Book 3 -Flowers of Esthelm",
     "Book 4 -Winter Solstice",
     "Book 5 -The Last Light",
@@ -29,10 +31,10 @@
     "Book 15 -Garden of Sanctuary",
     "Book 16 -King of Duels",
     "Book 17 -Lady of Fire",
-    "Book 18",
-    "Book 19",
     "Book 20",
-    "Book 21"
+    "Book 21",
+    "Book 22",
+    "Book 23"
   ],
   "chapters": [
     {
@@ -303,5432 +305,5432 @@
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.34",
-      "ab": "Chapter 35",
+      "ab": "Chapter 1",
       "eb": "1.28"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.35 R",
       "ab": "Chapter 36",
       "eb": "1.06 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.36",
-      "ab": "Chapter 37",
+      "ab": "Chapter 3",
       "eb": "1.29"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.37",
-      "ab": "Chapter 38",
+      "ab": "Chapter 4",
       "eb": "1.30"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.38",
-      "ab": "Chapter 39",
+      "ab": "Chapter 5",
       "eb": "1.31"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.39 R",
       "ab": "Chapter 40",
       "eb": "1.07 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.40 R",
       "ab": "Chapter 41",
       "eb": "1.08 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.41",
-      "ab": "Chapter 42",
+      "ab": "Chapter 8",
       "eb": "1.32"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.42",
-      "ab": "Chapter 43",
+      "ab": "Chapter 9",
       "eb": "1.33"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.43 R",
       "ab": "Chapter 44",
       "eb": "1.09 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.44 R",
       "ab": "Chapter 45",
       "eb": "1.10 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.45",
-      "ab": "Chapter 46",
+      "ab": "Chapter 12",
       "eb": "1.34"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.46",
-      "ab": "Chapter 47",
+      "ab": "Chapter 13",
       "eb": "1.35"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.47 R",
       "ab": "Chapter 48",
       "eb": "1.11 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.48 R",
       "ab": "Chapter 49",
       "eb": "1.12 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.49",
-      "ab": "Chapter 50",
+      "ab": "Chapter 16",
       "eb": "1.36"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.50",
-      "ab": "Chapter 51",
+      "ab": "Chapter 17",
       "eb": "1.37"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.51",
-      "ab": "Chapter 52",
+      "ab": "Chapter 18",
       "eb": "1.38"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.52 R",
       "ab": "Chapter 53",
       "eb": "1.13 R"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.53",
-      "ab": "Chapter 54",
+      "ab": "Chapter 20",
       "eb": "1.39"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.54",
-      "ab": "Chapter 55",
+      "ab": "Chapter 21",
       "eb": "1.40"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.55 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.56",
-      "ab": "Chapter 56",
+      "ab": "Chapter 22",
       "eb": "1.41"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.57 H",
       "ab": "Chapter 57",
       "eb": "1.00 H"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.58 H",
       "ab": "Chapter 58",
       "eb": "1.01 H"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.59 H",
       "ab": "Chapter 57",
       "eb": "1.02 H"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.60",
-      "ab": "Chapter 60",
+      "ab": "Chapter 26",
       "eb": "1.42"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.61",
-      "ab": "Chapter 61",
+      "ab": "Chapter 27",
       "eb": "1.43"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.62",
-      "ab": "Chapter 62",
+      "ab": "Chapter 28",
       "eb": "1.44"
     },
     {
       "v": 0,
-      "b": 0,
+      "b": 1,
       "ws": "1.63",
-      "ab": "Chapter 63",
+      "ab": "Chapter 29",
       "eb": "1.45"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "Interlude – The Call",
       "ab": "Interlude",
       "eb": "Interlude"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.00",
       "ab": "Chapter 1",
       "eb": "2.00"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.01",
       "ab": "Chapter 2",
       "eb": "2.01"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.02",
       "ab": "Chapter 3",
       "eb": "2.02"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.03",
       "ab": "Chapter 4",
       "eb": "2.03"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.04",
       "ab": "Chapter 5",
       "eb": "2.04"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.05",
       "ab": "Chapter 6",
       "eb": "2.05"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.06",
       "ab": "Chapter 7",
       "eb": "2.06"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.06 (Apr 1 version)",
       "ab": null,
       "eb": null
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.07",
       "ab": "Chapter 8",
       "eb": "2.07"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.08",
       "ab": "Chapter 9",
       "eb": "2.08"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.09",
       "ab": "Chapter 10",
       "eb": "2.09"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.10 T",
       "ab": "Chapter 11: T",
       "eb": "2.10 T"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.11",
       "ab": "Chapter 12",
       "eb": "2.11"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.12",
       "ab": "Chapter 13",
       "eb": "2.12"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.13",
       "ab": "Chapter 14",
       "eb": "2.13"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.14 G",
       "ab": "Chapter 15: G",
       "eb": "2.14 G"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "Interlude – Mating Rituals (Pt. 1)",
       "ab": "Side Story: Mating Rituals",
       "eb": "Side Story – Mating Rituals"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.15",
       "ab": "Chapter 16",
       "eb": "2.15"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.16",
       "ab": "Chapter 17",
       "eb": "2.16"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.17",
       "ab": "Chapter 18",
       "eb": "2.17"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.18",
       "ab": "Chapter 19",
       "eb": "2.18"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.19 G",
       "ab": "Chapter 20: G",
       "eb": "2.19 G"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.20",
       "ab": "Chapter 21",
       "eb": "2.20"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.21",
       "ab": "Chapter 22",
       "eb": "2.21"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.22 K",
       "ab": "Chapter 23: K",
       "eb": "2.22 K"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.23",
       "ab": "Chapter 24",
       "eb": "2.23"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.24 T",
       "ab": "Chapter 25: T",
       "eb": "2.24 T"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.25",
       "ab": "Chapter 26",
       "eb": "2.25"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.26",
       "ab": "Chapter 27",
       "eb": "2.26"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "1.00 C",
       "ab": "Side Story: Clown, Part 1",
       "eb": "Side Story – [Clown] (Pt. 1)"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "1.01 C",
       "ab": "Side Story: Clown, Part 2",
       "eb": "Side Story – [Clown] (Pt. 2)"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 2,
       "ws": "2.27 G",
       "ab": "Chapter 28: G",
       "eb": "2.27 G"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.28",
-      "ab": "Chapter 29",
+      "ab": "Chapter 1",
       "eb": "2.28"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.29",
-      "ab": "Chapter 30",
+      "ab": "Chapter 2",
       "eb": "2.29"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.30",
-      "ab": "Chapter 31",
+      "ab": "Chapter 3",
       "eb": "2.30"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.31",
-      "ab": "Chapter 32",
+      "ab": "Chapter 4",
       "eb": "2.31"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.32 H",
-      "ab": "Chapter 33: H",
+      "ab": "Chapter 5: H",
       "eb": "2.32 H"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.33",
-      "ab": "Chapter 34",
+      "ab": "Chapter 6",
       "eb": "2.33"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.34",
-      "ab": "Chapter 35",
+      "ab": "Chapter 7",
       "eb": "2.34"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.35",
-      "ab": "Chapter 36",
+      "ab": "Chapter 8",
       "eb": "2.35"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.36 G",
-      "ab": "Chapter 37: G",
+      "ab": "Chapter 9: G",
       "eb": "2.36 G"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.37",
-      "ab": "Chapter 38",
+      "ab": "Chapter 10",
       "eb": "2.37"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.38",
-      "ab": "Chapter 39",
+      "ab": "Chapter 11",
       "eb": "2.38"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "Interlude – Quiet Discussions",
       "ab": "Interlude",
       "eb": "Interlude"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "Interlude – The Antinium Wars (Pt.1)",
       "ab": "Side Story: The Antinium Wars, Part 1",
       "eb": "Side Story – The Antinium Wars (Pt.1)"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "Interlude – The Antinium Wars (Pt.2)",
       "ab": "Side Story: The Antinium Wars, Part 2",
       "eb": "Side Story – The Antinium Wars (Pt.2)"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.39",
-      "ab": "Chapter 40",
+      "ab": "Chapter 12",
       "eb": "2.39"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.40",
-      "ab": "Chapter 41",
+      "ab": "Chapter 13",
       "eb": "2.40"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.41",
-      "ab": "Chapter 42",
+      "ab": "Chapter 14",
       "eb": "2.41"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.42",
-      "ab": "Chapter 43",
+      "ab": "Chapter 15",
       "eb": "2.42"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.43",
-      "ab": "Chapter 44",
+      "ab": "Chapter 16",
       "eb": "2.43"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.44",
-      "ab": "Chapter 45",
+      "ab": "Chapter 17",
       "eb": "2.44"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.45",
-      "ab": "Chapter 46",
+      "ab": "Chapter 18",
       "eb": "2.45"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.46",
-      "ab": "Chapter 47",
+      "ab": "Chapter 19",
       "eb": "2.46"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.47",
-      "ab": "Chapter 48",
+      "ab": "Chapter 20",
       "eb": "2.47"
     },
     {
       "v": 1,
-      "b": 1,
+      "b": 3,
       "ws": "2.48",
-      "ab": "Chapter 49",
+      "ab": "Chapter 21",
       "eb": "2.48"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.00 E",
       "ab": "Chapter 1: E",
       "eb": "3.00 E"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.01 E",
       "ab": "Chapter 2: E",
       "eb": "3.01 E"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.02 H",
       "ab": "Chapter 3: H",
       "eb": "3.02 H"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.03",
       "ab": "Chapter 4",
       "eb": "3.03"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.04",
       "ab": "Chapter 5",
       "eb": "3.04"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.05 L",
       "ab": "Chapter 6: L",
       "eb": "3.05 L"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "1.00 D",
       "ab": "Chapter 7: D",
       "eb": "1.00 D"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "1.01 D",
       "ab": "Chapter 8: D",
       "eb": "1.01 D"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.06 L",
       "ab": "Chapter 9: L",
       "eb": "3.06 L"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.07 H",
       "ab": "Chapter 10: H",
       "eb": "3.07 H"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.08 H",
       "ab": "Chapter 11: H",
       "eb": "3.08 H"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.09",
       "ab": "Chapter 12",
       "eb": "3.09"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.10",
       "ab": "Chapter 13",
       "eb": "3.10"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.11 E",
       "ab": "Chapter 14: E",
       "eb": "3.11 E"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.12 E",
       "ab": "Chapter 15: E",
       "eb": "3.12 E"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.13",
       "ab": "Chapter 16",
       "eb": "3.13 E"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.14",
       "ab": "Chapter 17: E",
       "eb": "3.14"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.15",
       "ab": "Chapter 18",
       "eb": "3.15"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.16",
       "ab": "Chapter 19",
       "eb": "3.16"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.17 T",
       "ab": "Chapter 20: T",
       "eb": "3.17 T"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.18 T",
       "ab": "Chapter 21",
       "eb": "3.18 T"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.19 T",
       "ab": "Chapter 22: T",
       "eb": "3.19 T"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.20 T",
       "ab": "Chapter 23: T",
       "eb": "3.20 T"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.21 L",
       "ab": "Chapter 24: L",
       "eb": "3.21 L"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.22 L",
       "ab": "Chapter 25: L",
       "eb": "3.22 L"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.23 L",
       "ab": "Chapter 26: L",
       "eb": "3.23 L"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.24",
       "ab": "Chapter 27",
       "eb": "3.24"
     },
     {
       "v": 2,
-      "b": 2,
+      "b": 4,
       "ws": "3.25",
       "ab": "Chapter 28",
       "eb": "3.25"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.26 G",
       "ab": "Chapter 1: G",
       "eb": "3.26 G"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.27 M",
       "ab": "Chapter 2: M",
       "eb": "3.27 M"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.28 G",
       "ab": "Chapter 3: G",
       "eb": "3.28 G"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.29 G",
       "ab": "Chapter 4: G",
       "eb": "3.29 G"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.30",
       "ab": "Chapter 5",
       "eb": "3.30"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.31 G",
       "ab": "Chapter 6: G",
       "eb": "3.31 G"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 1)",
       "ab": "Chapter 7: Wistram Days, Part 1",
       "eb": "Wistram Days (Pt.1)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 2)",
       "ab": "Chapter 8: Wistram Days, Part 2",
       "eb": "Wistram Days (Pt.2)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 3)",
       "ab": "Chapter 9: Wistram Days, Part 3",
       "eb": "Wistram Days (Pt.3)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 4)",
       "ab": "Chapter 10: Wistram Days, Part 4",
       "eb": "Wistram Days (Pt.4)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 5)",
       "ab": "Chapter 11: Wistram Days, Part 5",
       "eb": "Wistram Days (Pt.5)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 6)",
       "ab": "Chapter 12: Wistram Days, Part 6",
       "eb": "Wistram Days (Pt.6)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Wistram Days (Pt. 7)",
       "ab": "Chapter 13: Wistram Days, Part 7",
       "eb": "Wistram Days (Pt.7)"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.32",
       "ab": "Chapter 14",
       "eb": "3.32"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.33",
       "ab": "Chapter 15",
       "eb": "3.33"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.34",
       "ab": "Chapter 16",
       "eb": "3.34"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.35",
       "ab": "Chapter 17",
       "eb": "3.35"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.36",
       "ab": "Chapter 18",
       "eb": "3.36"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.37",
       "ab": "Chapter 19",
       "eb": "3.37"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.38",
       "ab": "Chapter 20",
       "eb": "3.38"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.39",
       "ab": "Chapter 21",
       "eb": "3.39"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.40",
       "ab": "Chapter 22",
       "eb": "3.40"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.41",
       "ab": "Chapter 23",
       "eb": "3.41"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "3.42",
       "ab": "Chapter 24",
       "eb": "3.42"
     },
     {
       "v": 2,
-      "b": 3,
+      "b": 5,
       "ws": "Interlude – Winter Solstice",
       "ab": "Chapter 25",
       "eb": "Interlude"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.00 K",
       "ab": "Chapter 1: K",
       "eb": "4.00 K"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.01 K",
       "ab": "Chapter 2: K",
       "eb": "4.01 K"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.02 K",
       "ab": "Chapter 3: K",
       "eb": "4.02 K"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.03 K",
       "ab": "Chapter 4: K",
       "eb": "4.03 K"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.04 K",
       "ab": "Chapter 5: K",
       "eb": "4.04 K"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.05 K",
       "ab": "Chapter 6: K",
       "eb": "4.05 K"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.06 KM",
       "ab": "Chapter 7: KM",
       "eb": "4.06 KM"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.07",
       "ab": "Chapter 8",
       "eb": "4.07"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.08 T",
       "ab": "Chapter 9: T",
       "eb": "4.08 T"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.09",
       "ab": "Chapter 10",
       "eb": "4.09"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.10",
       "ab": "Chapter 11",
       "eb": "4.10"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.11",
       "ab": "Chapter 12",
       "eb": "4.11"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.12",
       "ab": "Chapter 13",
       "eb": "4.12"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.13 L",
       "ab": "Chapter 14: L",
       "eb": "4.13 L"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.14 L",
       "ab": "Chapter 15",
       "eb": "4.14 L"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.15 L",
       "ab": "Chapter 16",
       "eb": "4.15 L"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.16",
       "ab": "Chapter 17",
       "eb": "4.16"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.17",
       "ab": "Chapter 18",
       "eb": "4.17"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "1.02 D",
       "ab": "Chapter 19: D",
       "eb": "1.02 D"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "1.03 D",
       "ab": "Chapter 20: D",
       "eb": "1.03 D"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "1.04 D",
       "ab": "Chapter 21: D",
       "eb": "1.04 D"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "1.05 D",
       "ab": "Chapter 22: D",
       "eb": "1.05 D"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "1.06 D",
       "ab": "Chapter 23: D",
       "eb": "1.06 D"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.18",
       "ab": "Chapter 24",
       "eb": "4.18"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.19",
       "ab": "Chapter 25",
       "eb": "4.19"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.20 E",
       "ab": "Chapter 26: E",
       "eb": "4.20 E"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.21 E",
       "ab": "Chapter 27: E",
       "eb": "4.21 E"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.22 E",
       "ab": "Chapter 28: E",
       "eb": "4.22 E"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.23 E",
       "ab": "Chapter 29: E",
       "eb": "4.23 E"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.24",
       "ab": "Chapter 30",
       "eb": "4.24"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.25 N",
       "ab": "Chapter 31: N",
       "eb": "4.25 N"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.26 M",
       "ab": "Chapter 32: M",
       "eb": "4.26 M"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.27 H",
       "ab": "Chapter 33: H",
       "eb": "4.27 H"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.28",
       "ab": "Chapter 34",
       "eb": "4.28"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.29",
       "ab": "Chapter 35",
       "eb": "4.29"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.30",
       "ab": "Chapter 36",
       "eb": "4.30"
     },
     {
       "v": 3,
-      "b": 4,
+      "b": 6,
       "ws": "4.31",
       "ab": "Chapter 37",
       "eb": "4.31"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.32 G",
       "ab": "Chapter 1: G",
       "eb": "4.32 G"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "1.02 C",
       "ab": "Chapter 2: C",
       "eb": "1.02 C"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "1.03 C",
       "ab": "Chapter 3: C",
       "eb": "1.03 C"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "1.04 C",
       "ab": "Chapter 4: C",
       "eb": "1.04 C"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "1.05 C",
       "ab": "Chapter 5: C",
       "eb": "1.05 C"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.33",
       "ab": "Chapter 6",
       "eb": "4.33"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.34",
       "ab": "Chapter 7",
       "eb": "4.34"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.35 E",
       "ab": "Chapter 8: E",
       "eb": "4.35 E"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.36 O",
       "ab": "Chapter 9: O",
       "eb": "4.36 O"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.37 O",
       "ab": "Chapter 10: O",
       "eb": "4.37 O"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.38 B",
       "ab": "Chapter 11: B",
       "eb": "4.38 B"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.39 G",
       "ab": "Chapter 12: G",
       "eb": "4.39 G"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.40 L",
       "ab": "Chapter 13: L",
       "eb": "4.40 L"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.41 L",
       "ab": "Chapter 14: L",
       "eb": "4.41 L"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.42 L",
       "ab": "Chapter 15: L",
       "eb": "4.42 L"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.43",
       "ab": "Chapter 16",
       "eb": "4.43"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.44 M",
       "ab": "Chapter 17: M",
       "eb": "4.44 M"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.45",
       "ab": "Chapter 18",
       "eb": "4.45"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.46",
       "ab": "Chapter 19",
       "eb": "4.46"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.47",
       "ab": "Chapter 20",
       "eb": "4.47"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "Interlude – The Antinium Wars (Pt.3)",
       "ab": "Chapter 21: The Antinium Wars, Part 3",
       "eb": "S02 – The Antinium Wars (Pt.3)"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "Interlude – The Antinium Wars (Pt.4)",
       "ab": "Chapter 22: The Antinium Wars, Part 4",
       "eb": "S02 – The Antinium Wars (Pt.4)"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "Interlude – The Antinium Wars (Pt.5)",
       "ab": "Chapter 23: The Antinium Wars, Part 5",
       "eb": "S02 – The Antinium Wars (Pt.5)"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.48",
       "ab": "Chapter 24",
       "eb": "4.48"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "4.49",
       "ab": "Chapter 25",
       "eb": "4.49"
     },
     {
       "v": 3,
-      "b": 5,
+      "b": 7,
       "ws": "The Depthless Doctor",
       "ab": null,
       "eb": null
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.00",
       "ab": "Chapter 1",
       "eb": "5.00"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.01",
       "ab": "Chapter 2",
       "eb": "5.01"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.02",
       "ab": "Chapter 3",
       "eb": "5.02"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.03",
       "ab": "Chapter 4",
       "eb": "5.03"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.04",
       "ab": "Chapter 5",
       "eb": "5.04"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.05",
       "ab": "Chapter 6",
       "eb": "5.05"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.06 M",
       "ab": "Chapter 7: M",
       "eb": "5.06 M"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.07",
       "ab": "Chapter 8",
       "eb": "5.07"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.08",
       "ab": "Chapter 9",
       "eb": "5.08"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "Interlude – Flos",
       "ab": "Interlude: Flos",
       "eb": "Interlude – Flos"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.09 E",
       "ab": "Chapter 10: E",
       "eb": "5.09 E"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.10 E",
       "ab": "Chapter 11: E",
       "eb": "5.10 E"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.11 E",
       "ab": "Chapter 12: E",
       "eb": "5.11 E"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.12",
       "ab": "Chapter 13",
       "eb": "5.12"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.13",
       "ab": "Chapter 14",
       "eb": "5.13"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.14",
       "ab": "Chapter 15",
       "eb": "5.14"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.15",
       "ab": "Chapter 16",
       "eb": "5.15"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.16 S",
       "ab": "Chapter 17: S",
       "eb": "5.16 S"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.17 S",
       "ab": "Chapter 18: S",
       "eb": "5.17 S"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.18 S",
       "ab": "Chapter 19: S",
       "eb": "5.18 S"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.19 G",
       "ab": "Chapter 20: G",
       "eb": "5.19 G"
     },
     {
       "v": 4,
-      "b": 6,
+      "b": 8,
       "ws": "5.20 G",
       "ab": "Chapter 21: G",
       "eb": "5.20 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.21 E",
       "ab": "Chapter 1: E",
       "eb": "5.21 E"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.22 G",
       "ab": "Chapter 2: G",
       "eb": "5.22 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.23 G",
       "ab": "Chapter 3: G",
       "eb": "5.23 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.24 L",
       "ab": "Chapter 4: L",
       "eb": "5.24 L"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.25 L",
       "ab": "Chapter 5: L",
       "eb": "5.25 L"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.26 L",
       "ab": "Chapter 6: L",
       "eb": "5.26 L"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.27",
       "ab": "Chapter 7",
       "eb": "5.27"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.28",
       "ab": "Chapter 8",
       "eb": "5.28"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.29",
       "ab": "Chapter 9",
       "eb": "5.29"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.30 G",
       "ab": "Chapter 10: G",
       "eb": "5.30 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.31 G",
       "ab": "Chapter 11: G",
       "eb": "5.31 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.32 G",
       "ab": "Chapter 12: G",
       "eb": "5.32 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.33 B",
       "ab": "Chapter 13: B",
       "eb": "5.33 B"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "Interlude – Blackmage",
       "ab": "Interlude: Blackmage",
       "eb": "Interlude – Blackmage"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.34",
       "ab": "Chapter 14",
       "eb": "5.34"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.35 H",
       "ab": "Chapter 15: H",
       "eb": "5.35 H"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.36",
       "ab": "Chapter 16",
       "eb": "5.36"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.37 G",
       "ab": "Chapter 17: G",
       "eb": "5.37 G"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.38",
       "ab": "Chapter 18",
       "eb": "5.38"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.39",
       "ab": "Chapter 19",
       "eb": "5.39"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.40",
       "ab": "Chapter 20",
       "eb": "5.40"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.41",
       "ab": "Chapter 21",
       "eb": "5.41"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.42",
       "ab": "Chapter 22",
       "eb": "5.42"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.43",
       "ab": "Chapter 23",
       "eb": "5.43"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "Interlude – Niers",
       "ab": "Interlude: Niers",
       "eb": "Interlude – Niers"
     },
     {
       "v": 4,
-      "b": 7,
+      "b": 9,
       "ws": "5.44",
       "ab": "Chapter 24",
       "eb": "5.44"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.45",
       "ab": "Chapter 1",
       "eb": "5.45"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.46",
       "ab": "Chapter 2",
       "eb": "5.46"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.47 G",
       "ab": "Chapter 3: G",
       "eb": "5.47 G"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.48 G",
       "ab": "Chapter 4: G",
       "eb": "5.48 G"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.49",
       "ab": "Chapter 5",
       "eb": "5.49"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.50 G",
       "ab": "Chapter 6: G",
       "eb": "5.50 G"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "Interlude – Bird",
       "ab": "Interlude: Bird",
       "eb": "Interlude – Bird"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.51 G",
       "ab": "Chapter 7: G",
       "eb": "5.51 G"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.52",
       "ab": "Chapter 8",
       "eb": "5.52"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.53",
       "ab": "Chapter 9",
       "eb": "5.53"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.54 (Non-Canon)",
       "ab": null,
       "eb": null
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.54",
       "ab": "Chapter 10",
       "eb": "5.54"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "Interlude – Krshia",
       "ab": "Interlude: Krshia",
       "eb": "Interlude – Krshia"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.55 G",
       "ab": "Chapter 11: G",
       "eb": "5.55 G"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.56 G",
       "ab": "Chapter 12: G",
       "eb": "5.56 G"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.57",
       "ab": "Chapter 13",
       "eb": "5.57"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.58",
       "ab": "Chapter 14",
       "eb": "5.58"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.59",
       "ab": "Chapter 15",
       "eb": "5.59"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "Interlude – Pebblesnatch and Garry",
       "ab": "Interlude: Pebblesnatch and Garry",
       "eb": "Interlude – Pebblesnatch and Garry"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.60",
       "ab": "Chapter 16",
       "eb": "5.60"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.61",
       "ab": "Chapter 17",
       "eb": "5.61"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "5.62",
       "ab": "Chapter 18",
       "eb": "5.62"
     },
     {
       "v": 4,
-      "b": 8,
+      "b": 10,
       "ws": "Interlude – Thereafter",
       "ab": "Interlude",
       "eb": "Interlude"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.00",
       "ab": "Chapter 1",
       "eb": "6.00"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.01",
       "ab": "Chapter 2",
       "eb": "6.01"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.02",
       "ab": "Chapter 3",
       "eb": "6.02"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.03",
       "ab": "Chapter 4",
       "eb": "6.03"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.04 D",
       "ab": "Chapter 5: D",
       "eb": "6.04 D"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.05 D",
       "ab": "Chapter 6: D",
       "eb": "6.05 D"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.06 D",
       "ab": "Chapter 7: D",
       "eb": "6.06 D"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.07 D",
       "ab": "Chapter 8: D",
       "eb": "6.07 D"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.08",
       "ab": "Chapter 9",
       "eb": "6.08"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.09",
       "ab": "Chapter 10",
       "eb": "6.09"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.10",
       "ab": "Chapter 11",
       "eb": "6.10"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.11",
       "ab": "Chapter 12",
       "eb": "6.11"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.12 K",
       "ab": "Chapter 13: K",
       "eb": "6.12 K"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.13 K",
       "ab": "Chapter 14: K",
       "eb": "6.13 K"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.14 K",
       "ab": "Chapter 15: K",
       "eb": "6.14 K"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.15 K",
       "ab": "Chapter 16: K",
       "eb": "6.15 K"
     },
     {
       "v": 5,
-      "b": 9,
+      "b": 11,
       "ws": "6.16",
       "ab": "Chapter 17",
       "eb": "6.16"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.17 S",
       "ab": "Chapter 1: S",
       "eb": "6.17 S"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.18 H",
       "ab": "Chapter 2: H",
       "eb": "6.18 H"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.19 H",
       "ab": "Chapter 3: H",
       "eb": "6.19 H"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.20 D",
       "ab": "Chapter 4: D",
       "eb": "6.20 D"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.21 D",
       "ab": "Chapter 5: D",
       "eb": "6.21 D"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.22 D",
       "ab": "Chapter 6: D",
       "eb": "6.22 D"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.23 D",
       "ab": "Chapter 7: D",
       "eb": "6.23 D"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.24 D",
       "ab": "Chapter 8: D",
       "eb": "6.24 D"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.25",
       "ab": "Chapter 9",
       "eb": "6.25"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.26",
       "ab": "Chapter 10",
       "eb": "6.26"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.27 M",
       "ab": "Chapter 11: M",
       "eb": "6.27 M"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.28",
       "ab": "Chapter 12",
       "eb": "6.28"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.29",
       "ab": "Chapter 13",
       "eb": "6.29"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "Interlude – Embria",
       "ab": "Interlude: Embria",
       "eb": "Interlude – Embria"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.30",
       "ab": "Chapter 14",
       "eb": "6.30"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.31",
       "ab": "Chapter 15",
       "eb": "6.31"
     },
     {
       "v": 5,
-      "b": 10,
+      "b": 12,
       "ws": "6.32",
       "ab": "Chapter 16",
       "eb": "6.32"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.33 E",
       "ab": "Chapter 1: E",
       "eb": "6.33 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.34 E",
       "ab": "Chapter 2: E",
       "eb": "6.34 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "Interlude – Numbtongue (Pt.1)",
       "ab": "Interlude: Numbtongue (Pt.1)",
       "eb": "Interlude – Numbtongue (Pt.1)"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "Interlude – Numbtongue (Pt.2)",
       "ab": "Interlude: Numbtongue (Pt.2)",
       "eb": "Interlude – Numbtongue (Pt.2)"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.35",
       "ab": "Chapter 3",
       "eb": "6.35"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.36 E",
       "ab": "Chapter 4: E",
       "eb": "6.36 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.37 E",
       "ab": "Chapter 5: E",
       "eb": "6.37 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.38",
       "ab": "Chapter 6",
       "eb": "6.38"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.39",
       "ab": "Chapter 7",
       "eb": "6.39"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.40 E",
       "ab": "Chapter 8: E",
       "eb": "6.40 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.41 E",
       "ab": "Chapter 9: E",
       "eb": "6.41 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "Interlude – Two Rats",
       "ab": "Interlude: Two Rats",
       "eb": "Interlude – Two Rats"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "Interlude – Rufelt",
       "ab": "Interlude: Rufelt",
       "eb": "Interlude – Rufelt"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.42 E",
       "ab": "Chapter 10: E",
       "eb": "6.42 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.43 E",
       "ab": "Chapter 11: E",
       "eb": "6.43 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.44 E",
       "ab": "Chapter 12: E",
       "eb": "6.44 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.45 E",
       "ab": "Chapter 13: E",
       "eb": "6.45 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.46 E",
       "ab": "Chapter 14: E",
       "eb": "6.46 E"
     },
     {
       "v": 5,
-      "b": 11,
+      "b": 13,
       "ws": "6.47 E",
       "ab": "Chapter 15: E",
       "eb": "6.47 E"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.48 T",
       "ab": "Chapter 1: T",
       "eb": "6.48 T"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.49",
       "ab": "Chapter 2",
       "eb": "6.49"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.50 I",
       "ab": "Chapter 3: I",
       "eb": "6.50 I"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.51 A",
       "ab": "Chapter 4: A",
       "eb": "6.51 A"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.52 K",
       "ab": "Chapter 5: K",
       "eb": "6.52 K"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.53 K",
       "ab": "Chapter 6: K",
       "eb": "6.53 K"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.54 K",
       "ab": "Chapter 7: K",
       "eb": "6.54 K"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.55 K",
       "ab": "Chapter 8: K",
       "eb": "6.55 K"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "Interlude – The Titan’s Question",
       "ab": "Interlude: The Titan’s Question",
       "eb": "Interlude – The Titan’s Question"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.56",
       "ab": "Chapter 9",
       "eb": "6.56"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.57",
       "ab": "Chapter 10",
       "eb": "6.57"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.58",
       "ab": "Chapter 11",
       "eb": "6.58"
     },
     {
       "v": 5,
-      "b": 12,
+      "b": 14,
       "ws": "6.59",
       "ab": "Chapter 12",
       "eb": "6.59"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.60",
       "ab": "Chapter 1",
       "eb": "6.60"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "Interlude – Talia",
       "ab": "Interlude: Talia",
       "eb": "Interlude – Talia"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.61 L",
       "ab": "Chapter 2: L",
       "eb": "6.61 L"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.62 L",
       "ab": "Chapter 3: L",
       "eb": "6.62 L"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "Interlude – Foliana",
       "ab": "Interlude: Foliana",
       "eb": "Interlude – Foliana"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.63 P",
       "ab": "Chapter 4: P",
       "eb": "6.63 P"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.64",
       "ab": "Chapter 5",
       "eb": "6.64"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.65",
       "ab": "Chapter 6",
       "eb": "6.65"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.66 H",
       "ab": "Chapter 7: H",
       "eb": "6.66 H"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.67",
       "ab": "Chapter 8",
       "eb": "6.67"
     },
     {
       "v": 5,
-      "b": 13,
+      "b": 15,
       "ws": "6.68",
       "ab": "Chapter 9",
       "eb": "6.68"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.00",
       "ab": "Chapter 1",
       "eb": "7.00"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.01",
       "ab": "Chapter 2",
       "eb": "7.01"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.02",
       "ab": "Chapter 3",
       "eb": "7.02"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.03",
       "ab": "Chapter 4",
       "eb": "7.03"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "Mini Stories – Crabs and Drinks",
       "ab": "Chapter 5",
       "eb": "Mini Stories – Crabs and Drinks"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.04",
       "ab": "Chapter 6",
       "eb": "7.04"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "Interlude – Queens and Dragons",
       "ab": "Interlude: Queens and Dragons",
       "eb": "Interlude – Queens and Dragons"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.05 P",
       "ab": "Chapter 7: P",
       "eb": "7.05 P"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.06",
       "ab": "Chapter 8",
       "eb": "7.06"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.07",
       "ab": "Chapter 9",
       "eb": "7.07"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.08 K",
       "ab": "Chapter 10: K",
       "eb": "7.08 K"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.09 K",
       "ab": "Chapter 11: K",
       "eb": "7.09 K"
     },
     {
       "v": 6,
-      "b": 14,
+      "b": 16,
       "ws": "7.10 K",
       "ab": "Chapter 12: K",
       "eb": "7.10 K"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.11",
       "ab": "Chapter 1",
       "eb": "7.11"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – Dancing and Brawling",
       "ab": "Interlude: Dancing and Brawling",
       "eb": "Interlude – Dancing and Brawling"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – Chocolate Gold",
       "ab": "Interlude: Chocolate Gold",
       "eb": "Interlude – Chocolate Gold"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – Chess and Ships",
       "ab": "Interlude: Chess and Ships",
       "eb": "Interlude – Chess and Ships"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – Chocolate Alchemy",
       "ab": "Interlude: Chocolate Alchemy",
       "eb": "Interlude – Chocolate Alchemy"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – Lifting Ants",
       "ab": "Interlude: Lifting Ants",
       "eb": "Interlude – Lifting Ants"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – Burning Alcohol",
       "ab": "Interlude: Burning Alcohol",
       "eb": "Interlude – Burning Alcohol"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Interlude – The Hangover After",
       "ab": "Interlude: The Hangover After",
       "eb": "Interlude – The Hangover After"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.12 G",
       "ab": "Chapter 2: G",
       "eb": "7.12 G"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.13 K",
       "ab": "Chapter 3: K",
       "eb": "7.13 K"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "Mating Rituals Pt.2",
       "ab": "Chapter 4",
       "eb": "Mating Rituals Pt.2"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.14 T",
       "ab": "Chapter 5: T",
       "eb": "7.14 T"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.15 R",
       "ab": "Chapter 6: R",
       "eb": "7.15 R"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.16 L",
       "ab": "Chapter 7: L",
       "eb": "7.16 L"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.17 S",
       "ab": "Chapter 8: S",
       "eb": "7.17 S"
     },
     {
       "v": 6,
-      "b": 15,
+      "b": 17,
       "ws": "7.18 M",
       "ab": "Chapter 9: M",
       "eb": "7.18 M"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "Interlude – Strategists at Sea (Pt. 1)",
       "ab": "Interlude: Strategists at Sea (Pt. 1)",
       "eb": "Interlude – Strategists at Sea (Pt. 1)"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "Interlude – Strategists at Sea (Pt. 2)",
       "ab": "Interlude: Strategists at Sea (Pt. 2)",
       "eb": "Interlude – Strategists at Sea (Pt. 2)"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.19",
       "ab": "Chapter 1",
       "eb": "7.19"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.20",
       "ab": "Chapter 2",
       "eb": "7.20"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "Interlude – A Night in the Inn",
       "ab": "Interlude: A Night in the Inn",
       "eb": "Interlude – A Night in the Inn"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.21 KQ",
       "ab": "Chapter 3: KQ",
       "eb": "7.21 KQ"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.22 D",
       "ab": "Chapter 4: D",
       "eb": "7.22 D"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.23 LM",
       "ab": "Chapter 5: LM",
       "eb": "7.23 LM"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.24",
       "ab": "Chapter 6",
       "eb": "7.24"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.25",
       "ab": "Chapter 7",
       "eb": "7.25"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.26",
       "ab": "Chapter 8",
       "eb": "7.26"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.27",
       "ab": "Chapter 9",
       "eb": "7.27"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "Interlude – The Gecko of Illusions",
       "ab": "Interlude: The Gecko of Illusions",
       "eb": "Interlude – The Gecko of Illusions"
     },
     {
       "v": 6,
-      "b": 16,
+      "b": 18,
       "ws": "7.28",
       "ab": "Chapter 10",
       "eb": "7.28"
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.29 B",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.30",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.31",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – A Meeting of [Druids]",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.32 D",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.33 I",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.34 C",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.35 C",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.36 C",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.37",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.38",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.39 A",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – Carriages and Conversations",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – Meetings and Friendships",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – Sand and Notes",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.40 ER",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – Food and Growth",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.41",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.42 M",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.43 G",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.44",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.45",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.46 K",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.47 K",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.48 K",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.49",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – Experiments in Golems",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.50",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.51",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.52",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.53",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.54",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.55 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – Saliss the Adventurer",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.56",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.57",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.58",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.59",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.60",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – The Tribes of Izril",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Interlude – The Innkeeper’s [Knight]",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.61",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "7.62",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 4)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 5)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 6)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 7)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 8)",
       "ab": null,
       "eb": null
     },
     {
       "v": 6,
-      "b": 17,
+      "b": 19,
       "ws": "Solstice (Pt. 9)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.00",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.01",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.02",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.03",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – The Revenant and the Naga",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.04 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.05 I",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.06 RT",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.07 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.08 J",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.09",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.10",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.11 E (Revised)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.12 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – The [Rower] and the [Bartender]",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.13 F",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.14 N",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.15",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Paradigm Shift (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Paradigm Shift (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.16",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.17 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.18 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.19 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.20",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.21 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.22 HE",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Senior Guardsman Relc",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.23",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.24",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.25 KH",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.26 FK",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Luan the Giant",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.27",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.28",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.29",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – The Pets of Innworld",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.30",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.31",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Pisces (Revised)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.32",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.33 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.34 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.35",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.36 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.37 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.38 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.39",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.40 CTV",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Of Vampires and Fraerlings",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.41",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Songs and Stories",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.42",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.43",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.44 O",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.45 O",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.46 G",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Perspective and Past",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.47 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.48 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.49 M – Revised",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.50",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Conversations",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.51 D",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.52 MN",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.53 FH",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.54 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.55 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.56",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.57 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.58 PFH",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.59 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.60",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.61",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.62 K",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.63 K",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.64 K",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.65",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Hectval (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Hectval (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Hectval (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Interlude – Satar",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.66",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.67",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.68",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.69 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.70 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.71",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.72",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.73 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.74 DR",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.75",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.76 B",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.77 B",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.78 F",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.79",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.80",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.81",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.82 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.82 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.82 (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.83",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.84",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "8.85",
       "ab": null,
       "eb": null
     },
     {
       "v": 7,
-      "b": 18,
+      "b": 20,
       "ws": "Epilogue",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.00",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.01",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.02",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Singing Ships",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.03",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.04",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – The Isles of Goblin and Minos",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.05 NPR",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.06",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.07",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.08",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Mundanity and Memorials",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – The Competition",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.09 P",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.10 W",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.11 W",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.12",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.13",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.14 VM",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.15 VM",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.16 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.17 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – The Great Race",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.18 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Relationships",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.19",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.20",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Death and Stitches",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.21",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.22 GN",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.23 GGGGGGGGG",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.24",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Adventurers (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Adventurers (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Adventurers (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.25",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.26 F",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.27 RC",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Age and Tales",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – The First and Last of Us",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.28",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.29",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.30",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.31",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.32",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.33",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Foody Discussions",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.34",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.35 O",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.36 HO",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.37 HO",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.38 TV (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.38 TV (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Beginnings",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.39",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.40 GG",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Innovation and Invention",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Brewing Sariants",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – The Spitoon",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Stories",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.41 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.41 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Levels",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.41 (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – Trade and Travel",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.42 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.43 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.44 P",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.45 GT",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.46 S",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.47 U",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.48 BTIPRLJMWVRV",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.49",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.50",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.51 Z",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.52",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.53",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.54 C",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.55 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.55 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.56",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.57 B",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.58 O",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.59 O",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Interlude – The Library",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.60",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.61 G",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.62",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.63",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.64 BH",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.65",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.66",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.67 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.67 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.68",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.69 H (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.69 H (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.70 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.70 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "9.70 (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 8,
-      "b": 19,
+      "b": 21,
       "ws": "Volume 9 – Epilogue",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.00 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.01 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.02 Y",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.03 Y",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.04 V",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.05",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.06",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.07",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Saliss the Architect",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.08 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.08 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.09 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.10 E (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.10 E (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.11 H",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.12 H (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.12 H (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.13",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.14",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.15",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.16 N",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Another Time",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.17",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.18 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.19 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.20 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.21 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt.1) — The Wedding",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 2) — The Pilot and the Knight",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 3) – Vengeance and Talking",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 4) – Order, Oddity",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 5) – Redblade and Lilbrasi",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 6) – Of Dragons",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 7) – No Answers and Answers",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Goblin Days (Pt. 8) – Downwards",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 2b)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 2c)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 4)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "The Roots (Pt. 5)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.22 R",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.23 LMGY",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Heroes of Hraace (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Heroes of Hraace (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Heroes of Hraace (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.24 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Arcsinger’s Memories",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #1",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.25 MG",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.26 MM",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.27 GMG",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude — Songs and Wands",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #2",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – The Grove",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.28 N",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.29 M",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.30 GGMG",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.31 – Pt. 1",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.31 – Pt. 2",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.32 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.32 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Redscar",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.33 MNK",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.34 MGF",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #3",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.35 (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.35 (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.35 (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.36 – Pt.1",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.36 – Pt. 2",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #4",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.37 GDI (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.37 GDI (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.37 GDI (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #5",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #6",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.38 E",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.39 YN",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.40 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.41 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Mini-Chapter: Eldavin",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.42 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Vernoue (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Vernoue (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Mini-Chapters – Patreon Poll",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.43 – RNG (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.43 – RNG (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.44 Z (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.44 Z (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.45 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.46 L",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Erin",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 3)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 4)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 5)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 6)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 7)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 8)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Halfseekers (Pt. 9)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Acceptable Romance",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.47 S (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.47 S (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.48 VS",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Barelle the [Bard]",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.49 Y",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.50 Y",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.51 T",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Beware of Chicken x The Wandering Inn Crossover Comic!",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Tales of Innworld #7",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.52 N",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.53 UEG",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.54 UEG (Pt. 1)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.54 UEG (Pt. 2)",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.55 F",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.56 F",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.57 F",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.58 FP",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – Spears and Stuff",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "Interlude – The 7th Hive",
       "ab": null,
       "eb": null
     },
     {
       "v": 9,
-      "b": 20,
+      "b": 22,
       "ws": "10.59 T",
       "ab": null,
       "eb": null
