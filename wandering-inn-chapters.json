@@ -33,7 +33,7 @@
     "Book 17 -Lady of Fire",
     "Book 18 -Archmages’s Ire",
     "Book 19 -Couriers Outbound",
-    "Book 22",
+    "Book 20 -Memory’s Flame",
     "Book 23",
     "Book 24",
     "Book 25"
@@ -49,478 +49,464 @@
     {
       "v": 0,
       "b": 0,
-      "ws": "1.00",
+      "ws": "1.01",
       "ab": "Chapter 2",
       "eb": "1.01"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.01",
+      "ws": "1.02",
       "ab": "Chapter 3",
       "eb": "1.02"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.02",
+      "ws": "1.03",
       "ab": "Chapter 4",
       "eb": "1.03"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.03",
+      "ws": "1.04",
       "ab": "Chapter 5",
       "eb": "1.04"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.04",
+      "ws": "1.05",
       "ab": "Chapter 6",
       "eb": "1.05"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.05",
+      "ws": "1.06",
       "ab": "Chapter 7",
       "eb": "1.06"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.06",
+      "ws": "1.07",
       "ab": "Chapter 8",
       "eb": "1.07"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.07",
+      "ws": "1.08",
       "ab": "Chapter 9",
       "eb": "1.08"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.08",
+      "ws": "1.09",
       "ab": "Chapter 10",
       "eb": "1.09"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.09",
+      "ws": "1.10",
       "ab": "Chapter 11",
       "eb": "1.10"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.10",
+      "ws": "Interlude – The Great Ritual",
+      "ab": "Interlude: The Great Ritual",
+      "eb": "Interlude – The Great Ritual"
+    },
+    {
+      "v": 0,
+      "b": 0,
+      "ws": "1.11",
       "ab": "Chapter 12",
       "eb": "1.11"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "Interlude – The Great Ritual",
-      "ab": "Interlude",
-      "eb": "Interlude"
-    },
-    {
-      "v": 0,
-      "b": 0,
-      "ws": "1.11",
+      "ws": "1.12",
       "ab": "Chapter 13",
       "eb": "1.12"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.11",
+      "ws": "1.13",
       "ab": "Chapter 14",
       "eb": "1.13"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.12",
+      "ws": "1.14",
       "ab": "Chapter 15",
       "eb": "1.14"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.13",
+      "ws": "1.15",
       "ab": "Chapter 16",
       "eb": "1.15"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.14",
+      "ws": "1.16",
       "ab": "Chapter 17",
       "eb": "1.16"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.15",
+      "ws": "1.17",
       "ab": "Chapter 18",
       "eb": "1.17"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.16",
+      "ws": "1.18",
       "ab": "Chapter 19",
       "eb": "1.18"
     },
     {
       "v": 0,
       "b": 0,
-      "ws": "1.17",
-      "ab": "Chapter 20",
-      "eb": "1.19"
-    },
-    {
-      "v": 0,
-      "b": 0,
-      "ws": "1.18",
-      "ab": "Chapter 21",
-      "eb": "1.20"
-    },
-    {
-      "v": 0,
-      "b": 0,
       "ws": "1.19 R",
-      "ab": "Chapter 22",
-      "eb": "Interlude - 1.00 R"
+      "ab": "Chapter 20: R",
+      "eb": "1.19 R"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.20 R",
-      "ab": "Chapter 23",
-      "eb": "1.01 R"
+      "ab": "Chapter 21: R",
+      "eb": "1.20 R"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.21",
-      "ab": "Chapter 24",
+      "ab": "Chapter 22",
       "eb": "1.21"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.22",
-      "ab": "Chapter 25",
+      "ab": "Chapter 23",
       "eb": "1.22"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.23 A",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 24: A",
+      "eb": "1.23 A"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.24",
-      "ab": "Chapter 26",
-      "eb": "1.23"
+      "ab": "Chapter 25",
+      "eb": "1.24"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "Interlude – King Edition",
-      "ab": "Interlude: The King of Destruction",
+      "ab": "Interlude: King Edition",
       "eb": "Interlude – King Edition"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.25",
-      "ab": "Chapter 27",
-      "eb": "1.24"
+      "ab": "Chapter 26",
+      "eb": "1.25"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.26 R",
-      "ab": "Chaper 28",
-      "eb": "1.02 R"
+      "ab": "Chapter 27: R",
+      "eb": "1.26 R"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.27 R",
-      "ab": "Chapter 29",
-      "eb": "1.03 R"
+      "ab": "Chapter 28: R",
+      "eb": "1.27 R"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.28 A",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 29: A",
+      "eb": "1.28 A"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.29",
       "ab": "Chapter 30",
-      "eb": "1.25"
+      "eb": "1.29"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.30",
       "ab": "Chapter 31",
-      "eb": "1.26"
+      "eb": "1.30"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.31",
       "ab": "Chapter 32",
-      "eb": "1.27"
+      "eb": "1.31"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.32 R",
-      "ab": "Chapter 33",
-      "eb": "1.04 R"
+      "ab": "Chapter 33: R",
+      "eb": "1.32 R"
     },
     {
       "v": 0,
       "b": 0,
       "ws": "1.33 R",
-      "ab": "Chapter 34",
-      "eb": "1.05 R"
+      "ab": "Chapter 34: R",
+      "eb": "1.33 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.34",
       "ab": "Chapter 1",
-      "eb": "1.28"
+      "eb": "1.34"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.35 R",
-      "ab": "Chapter 2",
-      "eb": "1.06 R"
+      "ab": "Chapter 2: R",
+      "eb": "1.35 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.36",
       "ab": "Chapter 3",
-      "eb": "1.29"
+      "eb": "1.36"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.37",
       "ab": "Chapter 4",
-      "eb": "1.30"
+      "eb": "1.37"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.38",
       "ab": "Chapter 5",
-      "eb": "1.31"
+      "eb": "1.38"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.39 R",
-      "ab": "Chapter 6",
-      "eb": "1.07 R"
+      "ab": "Chapter 6: R",
+      "eb": "1.39 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.40 R",
-      "ab": "Chapter 7",
-      "eb": "1.08 R"
+      "ab": "Chapter 7: R",
+      "eb": "1.40 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.41",
       "ab": "Chapter 8",
-      "eb": "1.32"
+      "eb": "1.41"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.42",
       "ab": "Chapter 9",
-      "eb": "1.33"
+      "eb": "1.42"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.43 R",
-      "ab": "Chapter 10",
-      "eb": "1.09 R"
+      "ab": "Chapter 10: R",
+      "eb": "1.43 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.44 R",
-      "ab": "Chapter 11",
-      "eb": "1.10 R"
+      "ab": "Chapter 11: R",
+      "eb": "1.44 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.45",
       "ab": "Chapter 12",
-      "eb": "1.34"
+      "eb": "1.45"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.46",
       "ab": "Chapter 13",
-      "eb": "1.35"
+      "eb": "1.46"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.47 R",
-      "ab": "Chapter 14",
-      "eb": "1.11 R"
+      "ab": "Chapter 14: R",
+      "eb": "1.47 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.48 R",
-      "ab": "Chapter 15",
-      "eb": "1.12 R"
+      "ab": "Chapter 15: R",
+      "eb": "1.48 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.49",
       "ab": "Chapter 16",
-      "eb": "1.36"
+      "eb": "1.49"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.50",
       "ab": "Chapter 17",
-      "eb": "1.37"
+      "eb": "1.50"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.51",
       "ab": "Chapter 18",
-      "eb": "1.38"
+      "eb": "1.51"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.52 R",
-      "ab": "Chapter 19",
-      "eb": "1.13 R"
+      "ab": "Chapter 19: R",
+      "eb": "1.52 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.53",
       "ab": "Chapter 20",
-      "eb": "1.39"
+      "eb": "1.53"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.54",
       "ab": "Chapter 21",
-      "eb": "1.40"
+      "eb": "1.54"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.55 R",
-      "ab": "Chapter 22",
-      "eb": "1.41 R"
+      "ab": "Chapter 22: R",
+      "eb": "1.55 R"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.56",
       "ab": "Chapter 23",
-      "eb": "1.42"
+      "eb": "1.56"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.57 H",
-      "ab": "Chapter 24",
-      "eb": "1.00 H"
+      "ab": "Chapter 24: H",
+      "eb": "1.57 H"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.58 H",
-      "ab": "Chapter 25",
-      "eb": "1.01 H"
+      "ab": "Chapter 25: H",
+      "eb": "1.58 H"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.59 H",
-      "ab": "Chapter 26",
-      "eb": "1.02 H"
+      "ab": "Chapter 26: H",
+      "eb": "1.59 H"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.60",
       "ab": "Chapter 27",
-      "eb": "1.43"
+      "eb": "1.60"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.61",
       "ab": "Chapter 28",
-      "eb": "1.44"
+      "eb": "1.61"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.62",
       "ab": "Chapter 29",
-      "eb": "1.45"
+      "eb": "1.62"
     },
     {
       "v": 0,
       "b": 1,
       "ws": "1.63",
       "ab": "Chapter 30",
-      "eb": "1.46"
+      "eb": "1.63"
     },
     {
       "v": 1,
       "b": 2,
       "ws": "Interlude – The Call",
-      "ab": "Interlude",
-      "eb": "Interlude"
+      "ab": "Interlude: The Call",
+      "eb": "Interlude – The Call"
     },
     {
       "v": 1,
@@ -638,8 +624,8 @@
       "v": 1,
       "b": 2,
       "ws": "Interlude – Mating Rituals (Pt. 1)",
-      "ab": "Side Story: Mating Rituals",
-      "eb": "Side Story – Mating Rituals"
+      "ab": "Interlude: Mating Rituals (Pt. 1)",
+      "eb": "Interlude – Mating Rituals (Pt. 1)"
     },
     {
       "v": 1,
@@ -730,14 +716,14 @@
       "b": 2,
       "ws": "1.00 C",
       "ab": "Side Story: Clown, Part 1",
-      "eb": "Side Story – [Clown] (Pt. 1)"
+      "eb": "(Moved to Book 2 part 2)"
     },
     {
       "v": 1,
       "b": 2,
       "ws": "1.01 C",
       "ab": "Side Story: Clown, Part 2",
-      "eb": "Side Story – [Clown] (Pt. 2)"
+      "eb": "(Moved to Book 2 part 2)"
     },
     {
       "v": 1,
@@ -828,21 +814,21 @@
       "b": 3,
       "ws": "Interlude – Quiet Discussions",
       "ab": "Interlude",
-      "eb": "Interlude"
+      "eb": "Interlude – Quiet Discussions"
     },
     {
       "v": 1,
       "b": 3,
       "ws": "Interlude – The Antinium Wars (Pt.1)",
       "ab": "Side Story: The Antinium Wars, Part 1",
-      "eb": "Side Story – The Antinium Wars (Pt.1)"
+      "eb": "Interlude – The Antinium Wars (Pt.1)"
     },
     {
       "v": 1,
       "b": 3,
       "ws": "Interlude – The Antinium Wars (Pt.2)",
       "ab": "Side Story: The Antinium Wars, Part 2",
-      "eb": "Side Story – The Antinium Wars (Pt.2)"
+      "eb": "Interlude – The Antinium Wars (Pt.2)"
     },
     {
       "v": 1,
@@ -3298,134 +3284,134 @@
       "v": 6,
       "b": 21,
       "ws": "Interlude – Saliss the Adventurer",
-      "ab": null,
-      "eb": null
+      "ab": "Interlude: Saliss the Adventurer",
+      "eb": "Interlude – Saliss the Adventurer"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.56",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 1",
+      "eb": "7.56"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.57",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 2",
+      "eb": "7.57"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.58",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 3",
+      "eb": "7.58"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.59",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 4",
+      "eb": "7.59"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.60",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 5",
+      "eb": "7.60"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Interlude – The Tribes of Izril",
-      "ab": null,
-      "eb": null
+      "ab": "Interlude: The Tribes of Izril",
+      "eb": "Interlude – The Tribes of Izril"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Interlude – The Innkeeper’s [Knight]",
-      "ab": null,
-      "eb": null
+      "ab": "Interlude: The Innkeeper’s [Knight]",
+      "eb": "Interlude – The Innkeeper’s [Knight]"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.61",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 6",
+      "eb": "7.61"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "7.62",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 7",
+      "eb": "7.62"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 1)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 8",
+      "eb": "Solstice (Pt. 1)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 2)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 9",
+      "eb": "Solstice (Pt. 2)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 3)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 10",
+      "eb": "Solstice (Pt. 3)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 4)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 11",
+      "eb": "Solstice (Pt. 4)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 5)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 12",
+      "eb": "Solstice (Pt. 5)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 6)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 13",
+      "eb": "Solstice (Pt. 6)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 7)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 14",
+      "eb": "Solstice (Pt. 7)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 8)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 15",
+      "eb": "Solstice (Pt. 8)"
     },
     {
       "v": 6,
       "b": 21,
       "ws": "Solstice (Pt. 9)",
-      "ab": null,
-      "eb": null
+      "ab": "Chapter 16",
+      "eb": "Solstice (Pt. 9)"
     },
     {
       "v": 7,
